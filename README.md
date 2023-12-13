@@ -1,1 +1,1 @@
-# Github flow of stepsSs
+# Github flow of steps
